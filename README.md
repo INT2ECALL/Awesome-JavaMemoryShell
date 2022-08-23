@@ -32,7 +32,6 @@ https://github.com/apangin/jattach
 
 https://github.com/alibaba/arthas
 
-https://github.com/LandGrey/copagent
 
 
 
