@@ -10,6 +10,9 @@ https://github.com/LandGrey/copagent
 
 https://xz.aliyun.com/t/10781
 
+https://su18.org/post/memory-shell/
+
+https://su18.org/post/memory-shell-2/
 
 
 2.Scanner
