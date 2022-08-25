@@ -16,6 +16,7 @@ https://su18.org/post/memory-shell-2/
 
 https://github.com/hosch3n/msmap
 
+https://mp.weixin.qq.com/s?__biz=MzIwNDA2NDk5OQ==&mid=2651374294&idx=3&sn=82d050ca7268bdb7bcf7ff7ff293d7b3
 
 2.Scanner
 
