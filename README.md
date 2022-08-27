@@ -7,12 +7,12 @@
 # 索引
 
 - [文章](#文章)
-- [内存马](#educational)
-    - [Webshell](#books)
-    - [Webshell管理工具](#articles)
-- [查杀工具](#similar-lists)
-
-
+- [内存马](#内存马)
+    - [Webshell](#Webshell)
+    - [Webshell管理工具](#Webshell管理工具)
+- [查杀工具](#查杀工具)
+- [JVM相关工具](#JVM相关工具)
+- [交流讨论](#交流讨论)
 
 # 内容
 
