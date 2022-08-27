@@ -51,6 +51,6 @@
 
 欢迎关注公众号，一起交流学习。
 <p align="center">
-    <a href="https://imgse.com/i/vWCV0O"><img src="https://s1.ax1x.com/2022/08/27/vWCV0O.png" alt="vWCV0O.png" border="0" /></a>
+    <img src="https://s1.ax1x.com/2022/08/27/vWFPpj.png" alt="vWFPpj.png" border="0" />
 </p>
 
