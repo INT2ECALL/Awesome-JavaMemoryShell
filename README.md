@@ -23,8 +23,6 @@
 - [JavaWeb 内存马一周目通关攻略](https://su18.org/post/memory-shell/)
 - [JavaWeb 内存马二周目通关攻略](https://su18.org/post/memory-shell-2/)
 - [基于全局储存的新思路 | Tomcat的一种通用回显方法研究](https://mp.weixin.qq.com/s?__biz=MzIwNDA2NDk5OQ==&mid=2651374294&idx=3&sn=82d050ca7268bdb7bcf7ff7ff293d7b3)
-- [rustbuster](https://github.com/phra/rustbuster) - web fuzzer and content discovery tool
-
 
 ## 内存马
 
@@ -37,6 +35,7 @@
 
 ### Webshell管理工具
 - [Behinder](https://github.com/rebeyond/Behinder) - “冰蝎”动态二进制加密网站管理客户端
+- [Godzilla](https://github.com/BeichenDream/Godzilla) - 哥斯拉webshell管理工具
 
 ## 查杀工具
 - [copagent](https://github.com/LandGrey/copagent) - A java memory web shell extracting tool
@@ -46,7 +45,6 @@
 
 ## JVM相关工具
 - [jattach](https://github.com/apangin/jattach) - The utility to send commands to a JVM process via Dynamic Attach mechanism
-- [arthas](https://github.com/alibaba/arthas) - Arthas is a Java Diagnostic tool open sourced by Alibaba
 - [arthas](https://github.com/alibaba/arthas) - Arthas is a Java Diagnostic tool open sourced by Alibaba
 
 # 交流讨论
