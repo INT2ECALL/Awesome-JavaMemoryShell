@@ -42,6 +42,8 @@
 - [查杀Java web filter型内存马](https://gv7.me/articles/2020/kill-java-web-filter-memshell/)
 - [深入浅出内存马（一）](https://jishuin.proginn.com/p/763bfbd5f9cc)
 - [Java Agent 从入门到内存马](https://xz.aliyun.com/t/9450#toc-9)
+- [Tomcat 内存马检测](https://www.anquanke.com/post/id/219177)
+- [Tomcat 内存马检测](https://www.anquanke.com/post/id/219177)
 
 
 ## 内存马
@@ -54,6 +56,9 @@
 - [JAVA_memshells](https://github.com/minhangxiaohui/JAVA_memshells) - java 内存马系列 实现（Servlets 、组件、Agent）
 - [weblogic_memshell](https://github.com/keven1z/weblogic_memshell) - 一个基于javaagent+ASM的无文件落地的javaagent，兼容多种容器(weblogic,Tomcat,Springboot)
 - [java_memshell](https://github.com/kuron3k0/java_memshell) - java各中间件的内存马、回显研究
+- [JSP-WebShells](https://github.com/threedr3am/JSP-WebShells) - Collect JSP webshell of various implementation methods. 收集JSP Webshell的各种姿势
+- [ZhouYu](https://github.com/threedr3am/ZhouYu) - SpringBoot 持久化 WebShell
+
 
 ### 红队工具
 - [shiro_attack](https://github.com/j1anFen/shiro_attack) - 利用shiro反序列化漏洞进行回显命令执行以及注入各类内存马
@@ -70,6 +75,7 @@
 - [java-memshell-scanner](https://github.com/c0ny1/java-memshell-scanner) - 通过jsp脚本扫描并查杀各类中间件内存马，比Java agent要温和一些。
 - [java-memshell-scanner](https://github.com/tovd-go/java-memshell-scan) - 简单的修改了一下c0ny1师傅的代码，添加了对websocket内存马查杀的支持
 - [DuckMemoryScan](https://github.com/huoji120/DuckMemoryScan) - 一个简单寻找包括不限于iis劫持,无文件木马,shellcode免杀后门的工具
+- [GuanYu](https://github.com/threedr3am/GuanYu) - JVM类加载监控agent，可配置黑名单，禁止恶意类加载（包括jsp webshell）
 
 
 ## JVM相关工具
