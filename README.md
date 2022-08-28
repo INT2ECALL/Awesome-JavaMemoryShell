@@ -23,6 +23,8 @@
 - [JavaWeb 内存马一周目通关攻略](https://su18.org/post/memory-shell/)
 - [JavaWeb 内存马二周目通关攻略](https://su18.org/post/memory-shell-2/)
 - [基于全局储存的新思路 | Tomcat的一种通用回显方法研究](https://mp.weixin.qq.com/s?__biz=MzIwNDA2NDk5OQ==&mid=2651374294&idx=3&sn=82d050ca7268bdb7bcf7ff7ff293d7b3)
+- [基于内存 Webshell 的无文件攻击技术研究](https://landgrey.me/blog/12/)
+- [利用 intercetor 注入 spring 内存 webshell](https://landgrey.me/blog/19/)
 
 ## 内存马
 
@@ -53,4 +55,3 @@
 <p align="center">
     <img src="https://s1.ax1x.com/2022/08/27/vWFPpj.png" alt="vWFPpj.png" border="0" />
 </p>
-
