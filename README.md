@@ -34,6 +34,8 @@
 - [msmap](https://github.com/hosch3n/msmap) - Msmap是一个内存马生成器，兼容多种容器、组件、编码器、WebShell / Proxy / Killer 和管理客户端
 - [MemShellDemo](https://github.com/jweny/MemShellDemo) - 本项目为各类内存马的Demo合集
 - [JAVA_memshells](https://github.com/minhangxiaohui/JAVA_memshells) - java 内存马系列 实现（Servlets 、组件、Agent）
+- [weblogic_memshell](https://github.com/keven1z/weblogic_memshell) - 一个基于javaagent+ASM的无文件落地的javaagent，兼容多种容器(weblogic,Tomcat,Springboot)
+- [java_memshell](https://github.com/kuron3k0/java_memshell) - java各中间件的内存马、回显研究
 
 ### Webshell管理工具
 - [Behinder](https://github.com/rebeyond/Behinder) - “冰蝎”动态二进制加密网站管理客户端
@@ -55,3 +57,4 @@
 <p align="center">
     <img src="https://s1.ax1x.com/2022/08/27/vWFPpj.png" alt="vWFPpj.png" border="0" />
 </p>
+
