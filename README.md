@@ -43,7 +43,7 @@
 - [深入浅出内存马（一）](https://jishuin.proginn.com/p/763bfbd5f9cc)
 - [Java Agent 从入门到内存马](https://xz.aliyun.com/t/9450#toc-9)
 - [Tomcat 内存马检测](https://www.anquanke.com/post/id/219177)
-- [Tomcat 内存马检测](https://www.anquanke.com/post/id/219177)
+- [Tomcat 源代码调试笔记 - 看不见的 Shell](https://mp.weixin.qq.com/s/x4pxmeqC1DvRi9AdxZ-0Lw)
 
 
 ## 内存马
