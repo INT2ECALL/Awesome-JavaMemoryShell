@@ -44,7 +44,7 @@
 - [Java Agent 从入门到内存马](https://xz.aliyun.com/t/9450#toc-9)
 - [Tomcat 内存马检测](https://www.anquanke.com/post/id/219177)
 - [Tomcat 源代码调试笔记 - 看不见的 Shell](https://mp.weixin.qq.com/s/x4pxmeqC1DvRi9AdxZ-0Lw)
-- [JBoss & WildFly Filter 内存马]([https://mp.weixin.qq.com/s/x4pxmeqC1DvRi9AdxZ-0Lw](https://mp.weixin.qq.com/s?__biz=MzU0MDg5MzIzMQ==&mid=2247486028&idx=1&sn=0c42579dff3cac3e4db7c50f9ae647ce&chksm=fb33030ccc448a1a17ec5feafe452837dd5d983cee2362236c29416d13d7d5222b9ed209e20b&scene=126&sessionid=1647240134&key=fb28ed52e6f6c17c69d1fbb322eb357105beaaa6d27b55736443a2301cb7c7c39b200bd4fae8145f9c8b751cfd595550e7af6941837d5b3ac9740b128cc2471e14dd6da37e26497ab4bfc6ddd7044e8b84d426afa145e742a224ea8656eb531a0a8f829b208160fb93261ffb07f9a00ec09b4ed251183b5fe04e159c1c18ac12&ascene=1&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=6304051b&lang=zh_CN&exportkey=A3z2qh%2F9r3tz%2B))
+- [JBoss & WildFly Filter 内存马](https://mp.weixin.qq.com/s?__biz=MzU0MDg5MzIzMQ==&mid=2247486028&idx=1&sn=0c42579dff3cac3e4db7c50f9ae647ce&chksm=fb33030ccc448a1a17ec5feafe452837dd5d983cee2362236c29416d13d7d5222b9ed209e20b&scene=126&sessionid=1647240134&key=fb28ed52e6f6c17c69d1fbb322eb357105beaaa6d27b55736443a2301cb7c7c39b200bd4fae8145f9c8b751cfd595550e7af6941837d5b3ac9740b128cc2471e14dd6da37e26497ab4bfc6ddd7044e8b84d426afa145e742a224ea8656eb531a0a8f829b208160fb93261ffb07f9a00ec09b4ed251183b5fe04e159c1c18ac12&ascene=1&uin=NTY2NTA4NjQ%3D&devicetype=Windows+Server+2016+x64&version=6304051b&lang=zh_CN&exportkey=A3z2qh%2F9r3tz%2B)
 - [Java安全之Weblogic内存马](https://www.cnblogs.com/nice0e3/p/14956677.html)
 - [Tomcat容器攻防笔记之Valve内存马出世](https://www.anquanke.com/post/id/225870)
 
