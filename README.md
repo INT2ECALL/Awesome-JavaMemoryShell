@@ -61,6 +61,7 @@
 - [JSP-WebShells](https://github.com/threedr3am/JSP-WebShells) - Collect JSP webshell of various implementation methods. 收集JSP Webshell的各种姿势
 - [ZhouYu](https://github.com/threedr3am/ZhouYu) - SpringBoot 持久化 WebShell
 - [MemoryShell](https://github.com/su18/MemoryShell) - JavaWeb MemoryShell Inject/Scan/Killer/Protect Research & Exploring
+- [MemShell](https://github.com/ax1sX/MemShell) - A List of Memory Shell related component relationships for some middleware
 
 ### 红队工具
 - [shiro_attack](https://github.com/j1anFen/shiro_attack) - 利用shiro反序列化漏洞进行回显命令执行以及注入各类内存马
