@@ -50,7 +50,6 @@
 - [WebSocket 内存马，一种新型内存马技术](https://www.freebuf.com/articles/web/339616.html)
 - [新型 tomcat websocket 内存马检测与防护思路探究](https://www.freebuf.com/articles/web/339361.html)
 
-https://www.freebuf.com/articles/web/339616.html
 ## 内存马
 
 ### Webshell
