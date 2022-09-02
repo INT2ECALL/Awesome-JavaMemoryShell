@@ -49,6 +49,7 @@
 - [Tomcat容器攻防笔记之Valve内存马出世](https://www.anquanke.com/post/id/225870)
 - [WebSocket 内存马，一种新型内存马技术](https://www.freebuf.com/articles/web/339616.html)
 - [新型 tomcat websocket 内存马检测与防护思路探究](https://www.freebuf.com/articles/web/339361.html)
+- [tomcat6下的Filter内存马注入](https://cloud.tencent.com/developer/article/1937711)
 
 ## 内存马
 
