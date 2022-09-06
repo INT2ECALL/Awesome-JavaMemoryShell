@@ -52,6 +52,9 @@
 - [tomcat6下的Filter内存马注入](https://cloud.tencent.com/developer/article/1937711)
 - [瞒天过海计之Tomcat隐藏内存马](https://tttang.com/archive/1368/)
 - [从一个被Tomcat拒绝的漏洞到特殊内存马](https://xz.aliyun.com/t/10577)
+- [Linux下内存马进阶植入技术](https://xz.aliyun.com/t/10186)
+- [Java内存攻击技术漫谈](https://xz.aliyun.com/t/10075)
+- [论如何优雅的注入Java Agent内存马](https://xz.aliyun.com/t/11640)
 
 ## 内存马
 
