@@ -57,6 +57,8 @@
 - [论如何优雅的注入Java Agent内存马](https://xz.aliyun.com/t/11640)
 - [Tomcat容器攻防笔记之JSP金蝉脱壳](https://www.anquanke.com/post/id/224698)
 - [一种新的Tomcat内存马 - Upgrade内存马](https://mp.weixin.qq.com/s?__biz=MzkxNDMxMTQyMg==&mid=2247493034&idx=1&sn=19da761e0945b563551d4187d174a194&chksm=c172f43bf6057d2d94affce2ed8e7c8c5f20ee5fbaa80f62ab0917851685e721eb74a5954fc6#rd)
+- [Executor内存马的实现](https://xz.aliyun.com/t/11593)
+- [Executor内存马的实现（二）](https://xz.aliyun.com/t/11613)
 
 ## 内存马
 
