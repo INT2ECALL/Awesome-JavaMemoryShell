@@ -55,6 +55,7 @@
 - [Linux下内存马进阶植入技术](https://xz.aliyun.com/t/10186)
 - [Java内存攻击技术漫谈](https://xz.aliyun.com/t/10075)
 - [论如何优雅的注入Java Agent内存马](https://xz.aliyun.com/t/11640)
+- [Tomcat容器攻防笔记之JSP金蝉脱壳](https://www.anquanke.com/post/id/224698)
 
 ## 内存马
 
