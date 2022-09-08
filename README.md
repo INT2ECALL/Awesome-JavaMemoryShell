@@ -59,6 +59,7 @@
 - [一种新的Tomcat内存马 - Upgrade内存马](https://mp.weixin.qq.com/s?__biz=MzkxNDMxMTQyMg==&mid=2247493034&idx=1&sn=19da761e0945b563551d4187d174a194&chksm=c172f43bf6057d2d94affce2ed8e7c8c5f20ee5fbaa80f62ab0917851685e721eb74a5954fc6#rd)
 - [Executor内存马的实现](https://xz.aliyun.com/t/11593)
 - [Executor内存马的实现（二）](https://xz.aliyun.com/t/11613)
+- [Java 动态调试技术原理及实践）](https://tech.meituan.com/2019/11/07/java-dynamic-debugging-technology.html)
 
 ## 内存马
 
