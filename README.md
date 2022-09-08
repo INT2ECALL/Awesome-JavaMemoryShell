@@ -101,7 +101,7 @@
 ## JVM相关工具
 - [jattach](https://github.com/apangin/jattach) - The utility to send commands to a JVM process via Dynamic Attach mechanism
 - [arthas](https://github.com/alibaba/arthas) - Arthas is a Java Diagnostic tool open sourced by Alibaba
-- [arthas](http://visualvm.github.io/) - VisualVM is distributed as a standalone tool at GitHub, and as an optional component of the GraalVM. Both are the same bits with the same features. Standalone tool runs on any compatible JDK, bundled tool is configured to run using the host GraalVM.
+- [visualvm](http://visualvm.github.io/) - VisualVM is distributed as a standalone tool at GitHub, and as an optional component of the GraalVM. Both are the same bits with the same features. Standalone tool runs on any compatible JDK, bundled tool is configured to run using the host GraalVM.
 
 # 交流讨论
 
