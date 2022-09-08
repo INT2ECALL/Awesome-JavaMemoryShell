@@ -60,6 +60,9 @@
 - [Executor内存马的实现](https://xz.aliyun.com/t/11593)
 - [Executor内存马的实现（二）](https://xz.aliyun.com/t/11613)
 - [Java 动态调试技术原理及实践）](https://tech.meituan.com/2019/11/07/java-dynamic-debugging-technology.html)
+- [硬核图解 Tomcat 整体架构](https://cloud.tencent.com/developer/article/1745954)
+- [Tomcat源码学习笔记 - Connector组件（一）](http://chujunjie.top/2019/04/21/Tomcat%E6%BA%90%E7%A0%81%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-Connector%E7%BB%84%E4%BB%B6-%E4%B8%80/)
+- [死磕Tomcat系列(2)——EndPoint源码解析](https://juejin.cn/post/6844903874122383374)
 
 ## 内存马
 
