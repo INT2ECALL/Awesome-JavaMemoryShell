@@ -64,6 +64,7 @@
 - [Tomcat源码学习笔记 - Connector组件（一）](http://chujunjie.top/2019/04/21/Tomcat%E6%BA%90%E7%A0%81%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-Connector%E7%BB%84%E4%BB%B6-%E4%B8%80/)
 - [死磕Tomcat系列(2)——EndPoint源码解析](https://juejin.cn/post/6844903874122383374)
 - [中间件内存马注入&冰蝎连接(附更改部分代码)](https://mp.weixin.qq.com/s/eI-50-_W89eN8tsKi-5j4g)
+- [冰蝎，从入门到魔改](https://www.anquanke.com/post/id/212271?display=mobile)
 
 
 ## 内存马
