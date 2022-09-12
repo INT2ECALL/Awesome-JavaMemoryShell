@@ -91,8 +91,7 @@
 - [Shiro-EXP](https://github.com/Veraxy00/Shiro-EXP) - 基于Apache Shiro反序列化漏洞进行利用链的探测，附内存马。
 - [ysoserial](https://github.com/su18/ysoserial) - 支持了一键打入 Spring/Tomcat/Jetty/JBoss/Resin/Websphere 内存马功能，内存马支持命令执行、冰蝎、哥斯拉、WebSocket 四种利用方式；并支持 Tomcat 回显命令执行、Neoreg 流量隧道内存马、Tomcat Websocket 内存马、Tomcat Executor 内存马、Tomcat Upgrade 内存马、RMI 内存马等；
 防御绕过：在部分系统中使用了 WAF/RASP 等防御模式，本项目去除大多数原版特征，并在执行恶意动作时使用了多种能够绕过 RASP 的执行方式，绕过防护
-
-
+- [taycan-sdk](https://github.com/bigBestWay/taycan-sdk) - 通过native层修改java层(JVM)，使用JVMTI及JNI API可以修改java任意类、执行任意代码，完成hook、插入内存马、反射等功能。
 ### Webshell管理工具
 - [Behinder](https://github.com/rebeyond/Behinder) - “冰蝎”动态二进制加密网站管理客户端
 - [Godzilla](https://github.com/BeichenDream/Godzilla) - 哥斯拉webshell管理工具
