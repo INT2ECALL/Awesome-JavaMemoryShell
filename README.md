@@ -7,6 +7,8 @@
 # 索引
 
 - [文章](#文章)
+    - [Java agent技术](#Java agent技术)
+    - [内存马相关](#内存马相关)
 - [内存马](#内存马)
     - [Webshell](#Webshell)
     - [红队工具](#红队工具)
@@ -19,6 +21,12 @@
 
 ## 文章
 
+### 基础原理
+#### Java Agent技术
+- [JVM源码分析之javaagent原理完全解读](https://developer.aliyun.com/article/2946)
+- [破解 Java Agent 探针黑科技](https://zhuanlan.zhihu.com/p/135872794)
+
+#### 内存马相关
 - [一文看懂内存马](https://www.freebuf.com/articles/web/274466.html)
 - [JAVA内存马的“一生”](https://xz.aliyun.com/t/11003#toc-13)
 - [JavaWeb 内存马一周目通关攻略](https://su18.org/post/memory-shell/)
@@ -65,9 +73,8 @@
 - [死磕Tomcat系列(2)——EndPoint源码解析](https://juejin.cn/post/6844903874122383374)
 - [中间件内存马注入&冰蝎连接(附更改部分代码)](https://mp.weixin.qq.com/s/eI-50-_W89eN8tsKi-5j4g)
 - [冰蝎，从入门到魔改](https://www.anquanke.com/post/id/212271?display=mobile)
-- [JVM插庄之二：Java agent基础原理 ](https://www.cnblogs.com/duanxz/p/4958458.html)
 - [冰蝎3.0的使用方法与默认密码更改方法](https://www.freebuf.com/news/251074.html)
-- [JVM源码分析之javaagent原理完全解读](https://developer.aliyun.com/article/2946)
+
 
 
 ## 内存马
