@@ -75,6 +75,7 @@
 - [中间件内存马注入&冰蝎连接(附更改部分代码)](https://mp.weixin.qq.com/s/eI-50-_W89eN8tsKi-5j4g)
 - [冰蝎，从入门到魔改](https://www.anquanke.com/post/id/212271?display=mobile)
 - [冰蝎3.0的使用方法与默认密码更改方法](https://www.freebuf.com/news/251074.html)
+- [内存马的攻防博弈之旅](http://blog.nsfocus.net/webshell-interceptor/)
 
 
 
