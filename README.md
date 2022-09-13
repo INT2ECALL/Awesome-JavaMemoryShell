@@ -25,6 +25,7 @@
 #### JavaAgent技术
 - [JVM源码分析之javaagent原理完全解读](https://developer.aliyun.com/article/2946)
 - [破解 Java Agent 探针黑科技](https://zhuanlan.zhihu.com/p/135872794)
+- [JVM Attach机制实现](http://lovestblog.cn/blog/2014/06/18/jvm-attach/)
 
 ### 内存马相关
 - [一文看懂内存马](https://www.freebuf.com/articles/web/274466.html)
