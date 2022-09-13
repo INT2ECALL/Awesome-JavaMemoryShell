@@ -67,6 +67,7 @@
 - [冰蝎，从入门到魔改](https://www.anquanke.com/post/id/212271?display=mobile)
 - [JVM插庄之二：Java agent基础原理 ](https://www.cnblogs.com/duanxz/p/4958458.html)
 - [冰蝎3.0的使用方法与默认密码更改方法](https://www.freebuf.com/news/251074.html)
+- [JVM源码分析之javaagent原理完全解读](https://developer.aliyun.com/article/2946)
 
 
 ## 内存马
