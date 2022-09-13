@@ -65,6 +65,7 @@
 - [死磕Tomcat系列(2)——EndPoint源码解析](https://juejin.cn/post/6844903874122383374)
 - [中间件内存马注入&冰蝎连接(附更改部分代码)](https://mp.weixin.qq.com/s/eI-50-_W89eN8tsKi-5j4g)
 - [冰蝎，从入门到魔改](https://www.anquanke.com/post/id/212271?display=mobile)
+- [JVM插庄之二：Java agent基础原理 ](https://www.cnblogs.com/duanxz/p/4958458.html)
 
 
 ## 内存马
