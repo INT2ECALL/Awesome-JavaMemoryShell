@@ -7,7 +7,7 @@
 # 索引
 
 - [文章](#文章)
-    - [Java agent技术](#Java agent技术)
+    - [JavaAgent技术](#JavaAgent技术)
     - [内存马相关](#内存马相关)
 - [内存马](#内存马)
     - [Webshell](#Webshell)
@@ -22,7 +22,7 @@
 ## 文章
 
 ### 基础原理
-#### Java Agent技术
+#### JavaAgent技术
 - [JVM源码分析之javaagent原理完全解读](https://developer.aliyun.com/article/2946)
 - [破解 Java Agent 探针黑科技](https://zhuanlan.zhihu.com/p/135872794)
 
