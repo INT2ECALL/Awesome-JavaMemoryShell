@@ -120,7 +120,7 @@
 - [jattach](https://github.com/apangin/jattach) - The utility to send commands to a JVM process via Dynamic Attach mechanism
 - [arthas](https://github.com/alibaba/arthas) - Arthas is a Java Diagnostic tool open sourced by Alibaba
 - [visualvm](http://visualvm.github.io/) - VisualVM is distributed as a standalone tool at GitHub, and as an optional component of the GraalVM. Both are the same bits with the same features. Standalone tool runs on any compatible JDK, bundled tool is configured to run using the host GraalVM.
-
+- [dumpclass](https://github.com/INT2ECALL/dumpclass) - Dump classes from running JVM process by sa-jdi.jar.
 # 交流讨论
 
 欢迎关注公众号，一起交流学习。
