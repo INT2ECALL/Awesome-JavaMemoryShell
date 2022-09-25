@@ -76,6 +76,7 @@
 - [冰蝎，从入门到魔改](https://www.anquanke.com/post/id/212271?display=mobile)
 - [冰蝎3.0的使用方法与默认密码更改方法](https://www.freebuf.com/news/251074.html)
 - [内存马的攻防博弈之旅](http://blog.nsfocus.net/webshell-interceptor/)
+- [利用shiro反序列化注入冰蝎内存马](https://www.cnblogs.com/yyhuni/p/shiroMemshell.html)
 
 
 
