@@ -115,6 +115,7 @@
 - [java-memshell-scanner](https://github.com/tovd-go/java-memshell-scan) - 简单的修改了一下c0ny1师傅的代码，添加了对websocket内存马查杀的支持
 - [DuckMemoryScan](https://github.com/huoji120/DuckMemoryScan) - 一个简单寻找包括不限于iis劫持,无文件木马,shellcode免杀后门的工具
 - [GuanYu](https://github.com/threedr3am/GuanYu) - JVM类加载监控agent，可配置黑名单，禁止恶意类加载（包括jsp webshell）
+- [MemoryShellHunter](https://github.com/sf197/MemoryShellHunter) - MemoryShellHunter是一款结合动态Building Call Graph的内存马Scanner/Killer工具。支持Agent和Attach方式启动检测，弥补常规内存马检测工具需要人工验证WebSocket内存马的问题。
 
 
 ## JVM相关工具
